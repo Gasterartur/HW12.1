@@ -1,0 +1,500 @@
+    6  git branch -a
+    7  git status
+    8  git init
+    9  cd C:/Users/gaste/Desktop/ICH/учебный проект туду лист/v.1.0~
+   10  cd C:/Users/gaste/Desktop/ICH/учебный проект туду лист/v.1.0
+   11  cd ICH/learningproject
+   12  cd ICH/learning project
+   13  cd learning project
+   14  cd "C:/Users/gaste/Desktop/ICH/learning project"
+   15  git init
+   16  cd C:/Users/gaste/Desktop/ICH/учебный проект туду лист
+   17  cd C:/Users/gaste/Desktop/ICH/learning project
+   18  cd [200~C:\Users\gaste\Desktop\ICH\learning project~
+   19  cd C:/Users/gaste/Desktop/ICH/learning project~
+   20  git status
+   21  cd C:/Users/gaste/Desktop/ICH/learning project
+   22  $ cd "C:/Users/gaste/Desktop/ICH/learning project"
+   23  cd "C:/Users/gaste/Desktop/ICH/learning project"
+   24  git add .
+   25  add all
+   26  reset
+   27  add .
+   28  git add .
+   29  git commit -m "Initial commit"
+   30  git config --global user.email "gasterartur@googlemail.com"
+   31  git config --global user.name "Artur Gaster"
+   32  git commit -m "Initial commit"
+   33  echo "# Learning-Project_P" >> README.md
+   34  git init
+   35  git add README.md
+   36  git commit -m "first commit"
+   37  git branch -M main
+   38  git remote add origin https://github.com/Gasterartur/Learning-Project_P.git
+   39  git push -u origin main
+   40  git add .
+   41  git add index.html style.css script.js
+   42  git add "v 1.0/index.html" "v 1.0/style.css" "v 1.0/script.js"
+   43  git add "v.1.0/index.html" "v.1.0/style.css" "v.1.0/script.js"
+   44  cd v.1.0
+   45  add index.html style.css script.js
+   46  git add index.html style.css script.js
+   47  git commit -m "Первый вариант, верстка начало"
+   48  git push origin main
+   49  git push origin master
+   50  git -u origin main
+   51  git push --set-upstream origin main
+   52  git --version
+   53  git branch
+   54  git commit
+   55  git push origin main
+   56  git remote add origin https://github.com/Gasterartur/LearningProject.git
+   57  git remote -v
+   58  git remote add origin https://github.com/Gasterartur/LearningProject.git
+   59  git branch -M main
+   60  git push -u origin main
+   61  cd ..
+   62  cd v.1.0
+   63  add .
+   64  git add .
+   65  git config --global core.autocrlf true
+   66  git config --global core.autocrlf input
+   67  git config --global core.autocrlf
+   68  git add .
+   69  git clear
+   70  git clean
+   71  nano /tmp/file.txt
+   72  df -h | head -n 3 >> /tmp/file.txt
+   73  chmod 770 /tmp/file.txt
+   74  nano ~/myfirstbashscript.sh
+   75  #!/bin/bash
+   76  USER="ваше_имя"
+   77  echo "Скрипт запущен из директории: $(pwd)"
+   78  [200~cat ~/myfirstbashscript.sh >> /tmp/file.txt~
+   79  cat ~/myfirstbashscript.sh >> /tmp/file.txt
+   80  history >> /tmp/file.txt
+   81  export_file /tmp/file.txt
+   82  scp /tmp/file.txt
+   83  mkdir git_intro
+   84  cd git_intro
+   85  git init
+   86  cp ~/path_to_your_image.jpg ./
+   87  cp ~my_image.jpg ./
+   88  cp ~/my_image.jpg ./
+   89  cp ~//Desktop/ICH/learning project/v.1.0/my_image.jpg ./
+   90  cp ~/Desktop/ICH/learning project/v.1.0/my_image.jpg
+   91  cp ~/Desktop/ICH/learning project/v.1.0/git_intro
+   92  ls /Desktop/ICH/learning project/v.1.0/git_intro 
+   93  ls Desktop/ICH/learning project/v.1.0/git_intro 
+   94  ls KTOP-91U1RQG MINGW64 ~/Desktop/ICH/learning project/v.1.0/git_intro (master)
+   95  $
+   96  KTOP-91U1RQG MINGW64 ~/Desktop/ICH/learning project/v.1.0/git_intro (master)
+   97  $
+   98  ls ~/Desktop/ICH/learning project/v.1.0/git_intro (master)
+   99  $
+  100  ls  ~/Desktop/ICH/learning project/v.1.0/git_intro
+  101  cp ~ my_image.jpg
+  102  cp r my_image.jpg
+  103  cp -r my_image.jpg
+  104   cp -r my_image.jpg  Desktop/ICH/learning project/v.1.0/git_intro 
+  105  cp -r my_image.jpg  Desktop/ICH/learning project/v.1.0
+  106  cp -r my_image.jpg  Desktop/ICH/learning project
+  107  clear
+  108  mkdir git_intro
+  109  cd git_intro
+  110  cp ~ Desktop/ICH/learning project/v.1.0/my_image.jpg Desktop/ICH/learning project/v.1.0/git_intro/git_intro
+  111  git init
+  112  cp ~ Desktop/ICH/learning project/v.1.0/my_image.jpg Desktop/ICH/learning project/v.1.0/git_intro/git_intro
+  113  git add .
+  114  git commit -m "добавлена картинка"
+  115  git remote add origin https://github.com/gasterartur/git_intro.git
+  116  git push -u origin master
+  117  git branch
+  118  git push -u origin master
+  119  git commit -m "добавлена картинка"
+  120  git add my_image.jpg
+  121  $ git add my_image.jpg
+  122  git add my_image.jpg
+  123  git push -u origin master
+  124  clear
+  125  mkdir git_intro
+  126  cd git_intro
+  127  clear
+  128  cd Desktop/ICH/learning project/v.1.0/
+  129  cd Desktop/ICH/learning project/v.1.0/~
+  130  cd "Desktop/ICH/learning project/v.1.0"
+  131  cd "Desktop/ICH/learning project/"
+  132  cd "C:/Users/gaste/Desktop/ICH/learning project
+  133  mkdir git_intro
+  134  cd get_intro
+  135  git init
+  136  cp /Desktop/ICH/learning project/v.1.0/git_intro/my_image.jpg
+  137  git add .
+  138  git commit -m
+  139  git remote add origin https://github.com/your_username/git_intro.git
+  140  11
+  141  cd C:/Users/gaste/Desktop/ICH/learning project
+  142  cd "C:/Users/gaste/Desktop/ICH/learning project"
+  143  mkdir git_intro
+  144  cd git_intro
+  145  git init
+  146  cd "C:/Users/gaste/Desktop/ICH/learning project/v.1.0"
+  147  sd "C:/Users/gaste/Desktop/ICH/learning project"
+  148  cd "C:/Users/gaste/Desktop/ICH/learning project"
+  149  cd git_intro
+  150  cp "C:/Users/gaste/Desktop/ICH/learning project/v.1.0/my_image.jpg"  "C:/Users/gaste/Desktop/ICH/learning project/git_intro"
+  151  git add .
+  152  git commit -m "Добавлена картинка"
+  153  git remote add origin https://github.com/Gasterartur/git_intro.git
+  154  git push -u origin master
+  155  git push -u origin main
+  156  clear
+  157  cd "/Desktop/ICH/learning project"
+  158  cd "Desktop/ICH/learning project"
+  159  cd "C:/Users/gaste/Desktop/ICH/learning project"
+  160  clear
+  161  nano myfirstbashscript.sh
+  162  #!/bin/bash
+  163  # Заводим переменную USER
+  164  USER="Ваше_Имя"
+  165  # Напишем дату
+  166  echo "Дата: $(date)"
+  167  # Поприветствуем пользователя
+  168  echo "Hello $USER!"
+  169  # Напишем, из какой директории скрипт работает
+  170  echo "Рабочая директория: $(pwd)"
+  171  # Количество процессов с именем bioset
+  172  echo "Количество процессов bioset: $(ps -ef | grep bioset | grep -v grep | wc -l)"
+  173  # Выведем права на файл /etc/passwd
+  174  echo "Права на файл /etc/passwd: $(ls -l /etc/passwd | awk '{print $1}')"
+  175  chmod +x myfirstbashscript.sh
+  176  export_file myfirstbashscript.sh myfirstbashscript.txt
+  177  cp myfirstbashscript.sh myfirstbashscript.txt
+  178  nano myfirstbashscript.sh
+  179  cp myfirstbashscript.sh myfirstbashscript.txt
+  180  clear
+  181  nano myfirstbashscript.sh
+  182  #!/bin/bash
+  183  # Заводим переменную USER
+  184  USER="Ваше_Имя"
+  185  # Напишем дату
+  186  echo "Дата: $(date)"
+  187  # Поприветствуем пользователя
+  188  echo "Hello $USER!"
+  189  # Напишем, из какой директории скрипт работает
+  190  echo "Рабочая директория: $(pwd)"
+  191  # Количество процессов с именем bioset
+  192  echo "Количество процессов bioset: $(ps -ef | grep bioset | grep -v grep | wc -l)"
+  193  # Выведем права на файл /etc/passwd
+  194  echo "Права на файл /etc/passwd: $(ls -l /etc/passwd | awk '{print $1}')
+  195  #!/bin/bash
+  196  USER="Ваше_Имя"
+  197  echo "Дата: $(date)"
+  198  echo "Hello $USER!"
+  199  echo "Рабочая директория: $(pwd)"
+  200  echo "Количество процессов bioset: $(ps -ef | grep bioset | grep -v grep | wc -l)"
+  201  echo "Права на файл /etc/passwd: $(ls -l /etc/passwd | awk '{print $1}')"
+  202  #!/bin/bash
+  203  USER="Ваше_Имя"
+  204  echo "Дата: $(date)"
+  205  echo "Hello $USER!"
+  206  echo "Рабочая директория: $(pwd)"
+  207  echo "Количество процессов bioset: $(ps -ef | grep bioset | grep -v grep | wc -l)"
+  208  echo "Права на файл /etc/passwd: $(ls -l /etc/passwd | awk '{print $1}')"
+  209  #!/bin/bash
+  210  USER="Ваше_Имя"
+  211  echo "Дата: $(date)"
+  212  echo "Hello $USER!"
+  213  echo "Рабочая директория: $(pwd)"
+  214  echo "Количество процессов bioset: $(ps -ef | grep bioset | grep -v grep | wc -l)"
+  215  echo "Права на файл /etc/passwd: $(ls -l /etc/passwd | awk '{print $1}')"
+  216  mkdir git-branch
+  217  cd git-branch
+  218  clear
+  219  cd "C:/Users/gaste/Desktop/ICH/learning project"
+  220  cd get_branch
+  221  cd git_branch
+  222  git checkout -b gitignore
+  223  cp "C:/Users/gaste/Desktop/ICH/learning project/.gitignore"
+  224  cp "C:/Users/gaste/Desktop/ICH/learning project/.gitignore" .
+  225  cp "C:/Users/gaste/Desktop/ICH/learning project/.gitignore/.getignore.txt" .
+  226  cp "C:/Users/gaste/Desktop/ICH/learning project/.gitignore.txt" .
+  227  add .
+  228  git add .
+  229  git remote add origin https://github.com/Gasterartur/git_branch.git
+  230  git add .
+  231  git add .gitignore
+  232  cd "C:/Users/gaste/Desktop/ICH/learning project"
+  233  mkdir git-branch
+  234  cd git-branch
+  235  git init
+  236  git checkout -b gitignore
+  237  cp "C:/Users/gaste/Desktop/ICH/learning project/.gitignore" .
+  238  cp "C:/Users/gaste/Desktop/ICH/learning project/.gitignore.txt" .
+  239  git commit -m "Add .gitignore file"
+  240  git remote add origin https://github.com/Gasterartur/git-branch.git
+  241  git push -u origin gitignore
+  242  git add .gitignore.txt
+  243  git commit -m "Initial commit with .gitignore.txt"
+  244  git push origin gitignore
+  245  git remote add https://github.com/Gasterartur/git_branch.git
+  246  git push -u origin gitignore
+  247  git remote add origin https://github.com/Gasterartur/git-branch.git
+  248  git remote add .gitignore https://github.com/Gasterartur/git-branch.git
+  249  git push -u origin gitignore
+  250  git push -u origin gitignore
+  251  git push -u origin gitignore
+  252  git push -u origin .gitignore
+  253  git remote add origin https://github.com/Gasterartur/git-branch.git
+  254  git remote remove origin
+  255  git remote add origin https://github.com/Gasterartur/git-branch.git
+  256  git push -u origin gitignore
+  257  git config user.name
+  258  git config user.email
+  259  git clone https://github.com/Gasterartur/git-branch.git
+  260  git push -u origin gitignore
+  261  git remote add origin "https://github.com/Gasterartur/git-branch.git"
+  262  git remote remove origin
+  263  git remote add origin "https://github.com/Gasterartur/git-branch.git"
+  264  git push -u origin gitignore
+  265  git status
+  266  git remote -v
+  267  origin https://github.com/Gasterartur/First.git
+  268  git remote -v
+  269  git remote add first https://github.com/Gasterartur/First.git
+  270  add commit "сортировка, поиск, актуальная дата"
+  271  git add commit "сортировка, поиск, актуальная дата"
+  272  cd C:/Users/gaste/Desktop/ICH/learning project/v.1.0
+  273  cd "C:/Users/gaste/Desktop/ICH/learning project/v.1.0"
+  274  git add .
+  275  git submodule update --init --recursive
+  276  git status
+  277  git add .
+  278  git commit -m "сортировка, поиск, актуальная дата"
+  279  git add .
+  280  git submodule deinit -f -- git_intro
+  281  rm -rf .git/modules/git_intro
+  282  git rm -f git_intro
+  283  git submodule add <URL_подмодуля> git_intro
+  284  git submodule add https://github.com/Gasterartur/First.git
+  285  cd First
+  286  echo "# My First Repository" >> README.md
+  287  git add README.md
+  288  git commit -m "Initial commit"
+  289  git push origin main
+  290  cd ..
+  291  git submodule add https://github.com/Gasterartur/First.git
+  292  git submodule update --init --recursive
+  293  git status
+  294  git log
+  295  git commit -m "сортировка, поиск, актуальная дата"
+  296  git add .
+  297  cd git_intro
+  298  git add .
+  299  echo "# Git Intro" >> README.md
+  300  git add README.md
+  301  git commit -m "Initial commit"
+  302  git push origin main
+  303  git branch
+  304  git branch main
+  305  git checkout main
+  306  git push origin master
+  307  git add .
+  308  git commit "дата и сортировка"
+  309  git init
+  310  git commit "дата и сортировка"
+  311  cd [200~/Desktop/ICH/learning project/v.1.0~
+  312  cd "/Desktop/ICH/learning project/v.1.0"
+  313  cd "C:/Users/gaste/Desktop/ICH/learning project/v.1.0"
+  314  git add .
+  315  git rm --cached git_intro
+  316  git add .
+  317  git commit "дата и сортировка"
+  318  git commit -m "дата и сортировка"
+  319  add index.html, script.js, style.css
+  320  git add index.html, script.js, style.css
+  321  git add index.html script.js style.css
+  322  git commit -m "дата и сортировка 2"
+  323  cd git_intro
+  324  git add .
+  325  git commit -m "Commit message for git_intro"
+  326  git push origin main
+  327  $ cd git_intro
+  328  git add .
+  329  git commit -m "Commit message for git_intro"
+  330  git push origin main
+  331  error: 'git_intro/' does not have a commit checked out
+  332  fatal: adding files failed
+  333  On branch main
+  334  Untracked files:
+  335    (use "git add <file>..." to include in what will be committed)
+  336          git_intro/
+  337          my_image.jpg
+  338  nothing added to commit but untracked files present (use "git add" to track)
+  339  fatal: 'origin' does not appear to be a git repository
+  340  fatal: Could not read from remote repository.
+  341  Please make sure you have the correct access rights
+  342  and the repository exists.
+  343  cd git_intro
+  344  git add .
+  345  git commit -m "Commit message for git_intro"
+  346  git push first main
+  347  git branch
+  348  cd git_intro
+  349  git add .
+  350  git commit -m "Commit message for git_intro"
+  351  git push first master
+  352  git branch main
+  353  checkout main
+  354  git checkout main
+  355  git push first master
+  356  git remote add first https://github.com/Gasterartur/First.git
+  357  git push first master
+  358  git push first main
+  359   git push first master
+  360  cd "/Desktop/ICH/learning project/v.1.0"
+  361  cd "C:/Users/gaste/Desktop/ICH/learning project/v.1.0"
+  362  git push first master
+  363  cd git_intro
+  364  git push first master
+  365  git push First master
+  366  git remote add first https://github.com/Gasterartur/First.git
+  367  git push First master
+  368  git remote -v
+  369  git add .
+  370  git commit -m "дата и слртировка 3"
+  371  git push first master
+  372  git pull first master
+  373  git add .
+  374  git commit -m "Resolve merge conflicts"
+  375  git push first master
+  376  git status
+  377  git status
+  378  git add README.md git_intro index.html my_image.jpg script.js style.css
+  379  git commit -m "Remove unnecessary files"
+  380  git push first main
+  381  cd ..
+  382  git push first master
+  383  add .
+  384  git add .
+  385  git commit -m "дата и сортировка 4"
+  386  git push first master
+  387  git branch
+  388  git push first main
+  389  git pull first main
+  390  git pull first main --allow-unrelated-histories
+  391  cd ..
+  392  cd "C:/Users/gaste/Desktop/ICH/learning project/v.1.0"
+  393  git add .
+  394  git push first main
+  395  cd "c:/LP/v.1.0
+  396  cd "C:/LP/v.1.0
+  397  "
+  398  cd "C:/LP/v.1.0"
+  399  git init
+  400  git add .
+  401  git commit -m "Point 28.08.24"
+  402  git remote add origin https://github.com/Gasterartur/LP.git
+  403  git remote https://github.com/Gasterartur/LP.git
+  404  git remote -v
+  405  git remote set-url origin https://github.com/Gasterartur/LP.git
+  406  git remote rename origin old-origin
+  407  git remote add origin https://github.com/Gasterartur/LP.git
+  408  git remote add origin https://github.com/Gasterartur/LP.git
+  409  git remote add LP https://github.com/Gasterartur/LP.git
+  410  git push -u LP main
+  411  git remote add LP https://github.com/Gasterartur/LP.git
+  412  git commit -m "saved"
+  413  add .
+  414  git add .
+  415  git push -u LP main
+  416  git push -u LP main
+  417  git pull LP main
+  418  git add .
+  419  git push -u LP main
+  420  git commit -m "Added"
+  421  git push -u LP main
+  422  #!/bin/bash
+  423  DIRECTORY="/opt/ВАШАГРУППА"
+  424  # Проверка существования директории
+  425  if [ ! -d "$DIRECTORY" ]; then     echo "Директория $DIRECTORY не существует.";     exit 1; fi
+  426  #!/bin/bash
+  427  #/bin/bash
+  428  bush
+  429  #!/bin/bash
+  430  # Директория для проверки
+  431  DIRECTORY="/opt/ВАШАГРУППА"
+  432  # Проверка существования директории
+  433  if [ ! -d "$DIRECTORY" ]; then     echo "Директория $DIRECTORY не существует.";     exit 1; fi
+  434  #!/bin/bash
+  435  # Директория для проверки
+  436  DIRECTORY="/opt/100624-wdm"
+  437  # Проверка существования директории
+  438  if [ ! -d "$DIRECTORY" ]; then     echo "Директория $DIRECTORY не существует.";     exit 1; fi
+  439  git clone https://github.com/Gasterartur/HW12.git
+  440  git clone https://github.com/Gasterartur/HomeWork12.git
+  441  cd HomeWork12
+  442  git checkout -b feature
+  443  # HomeWork12
+  444  This is my first repository.
+  445  #HomeWork12  This is my first repository.
+  446  # Ignore node_modules
+  447  node_modules/
+  448  #Ignore node_modules
+  449  node_modules/
+  450  git add README.md .gitignore
+  451  git commit -m "Initial commit with README and .gitignore"
+  452  git push origin feature
+  453  git commit --amend -m "Initial commit with README and .gitignore ammend"
+  454  git push --force origin feature
+  455  git checkout main
+  456  git merge feature
+  457  touch history.txt
+  458  history > history.txt
+  459  git add history.txt
+  460  git push origin main
+  461  git push origin main
+  462  git add history.txt
+  463  git push origin main
+  464  ssh gasterartur@linux.itcareerhub.de
+  465  ssh ec2-user@linux.itcareerhub.de
+  466  ssh ec2-user@linux.itcareerhub.de
+  467  ssh ec2-user@linux.itcareerhub.de
+  468  ssh ec2-user@itcareerhub.de
+  469  ssh ec2-user@linux.itcareerhub.de
+  470  tar -czvf archive_NAME.tar.gz ~/ваше_имя/*
+  471  ssh ec2-user@linux.itcareerhub.de
+  472  git clone https://github.com/Gasterartur/learning_git.git
+  473  cd learning_git
+  474  mkdir ArturGaster
+  475  cd ArturGaster
+  476  touch ArturGaster.txt
+  477  git add ArturGaster/ArturGaster,txt
+  478  git add ArturGaster/ArturGaster.txt
+  479  cd learning_git
+  480  ls
+  481  git add "ArturGaster/ArturGaster.txt
+  482  $ git add "ArturGaster/ArturGaster.txt"
+  483  exit
+  484  git clone https://github.com/GasterArtur/learning_git.git
+  485  cd ArturGaster
+  486  cd learning_git
+  487  cd ArturGaster
+  488  git add "ArturGaster/ArturGaster.txt"
+  489  touch Artur.txt
+  490  git add Artur.txt
+  491  git commit -m "Добавлен файл с именем в папку группы"
+  492  git push origin main
+  493  git clone https://github.com/Gasterartur/HW12.1
+  494  cd HW12.1
+  495  git checkout -b feature
+  496  echo "# HW12.1" > README.md
+  497  echo "*.log" >> .gitignore
+  498  git add README.md .gitignore
+  499  git commit -m "Добавлены README.md и обновлен .gitignore"
+  500  git push origin feature
+  501  git commit --amend -m "Добавлены README.md и обновлен .gitignore (amend)"
+  502  git checkout main
+  503  git merge feature
+  504  git add history.txt
+  505  history > history.txt
